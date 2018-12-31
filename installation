@@ -1,0 +1,8 @@
+npm install express-generator -g
+sudo npm install express-generator -g
+npm i 
+npm init
+npm install express --save
+node --version
+sudo npm install express-generator -g
+express myapp
